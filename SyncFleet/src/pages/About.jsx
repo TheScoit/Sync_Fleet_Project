@@ -48,7 +48,7 @@ const About = () => {
       </section>
 
       {/* Vision Section */}
-      <section className="bg-[#1e1b4b] backdrop-blur-md py-12 px-6 md:px-8 rounded-3xl shadow-xl border border-[#00C2FF]/20 max-w-6xl mx-auto mb-16">
+      <section className="bg-[#1e1b4b] backdrop-blur-md py-12 px-6 md:px-8 rounded-3xl shadow-xl border border-[#00C2FF]/20 max-w-6xl mx-auto mb-16 p-20">
         <h2 className="text-2xl md:text-3xl font-orbitron font-bold text-white text-center mb-6">Our Vision</h2>
         <p className="text-gray-300 text-base md:text-lg lg:text-xl text-center max-w-3xl mx-auto leading-relaxed">
           We aim to redefine group travel and team coordination by providing a modern, reliable, and intuitive platform.  

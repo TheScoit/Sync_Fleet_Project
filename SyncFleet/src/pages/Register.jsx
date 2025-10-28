@@ -32,7 +32,7 @@ const Register = () => {
   };
 
   return (
-    <div className="flex flex-col lg:flex-row min-h-screen bg-gradient-to-br from-[#0f172a] via-[#1e1b4b] to-[#312e81] font-inter">
+    <div className="flex flex-col items-center justify-center lg:flex-row min-h-screen bg-gradient-to-br from-[#0f172a] via-[#1e1b4b] to-[#312e81] font-inter">
       
       {/* Left Panel (branding/illustration) */}
       <div className="hidden lg:flex w-1/2 items-center justify-center p-12">
